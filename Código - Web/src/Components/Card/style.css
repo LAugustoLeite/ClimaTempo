@@ -1,0 +1,43 @@
+.card-container{
+    background: linear-gradient(#1E90FF,#87CEFA);
+    padding: 1rem;
+    margin: 4rem;
+    width: 400px;
+    height: 350px;  
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 5px auto;
+}
+
+.card-container .cima-card{
+    font-size: 24px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;   
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+
+#temp{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container3{
+    text-align: center; 
+}

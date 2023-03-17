@@ -1,0 +1,14 @@
+.home-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+@media (max-width: 1470px){
+    .home-page{
+        flex-wrap: wrap;
+        height: 130vh;    
+        margin: 30px;
+    }
+}
